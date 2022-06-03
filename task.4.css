@@ -1,0 +1,29 @@
+.navigation ul{
+    display: flex;
+    margin-left: 400px;
+}
+
+li{
+    list-style-type: none;
+    margin-left: 40px;
+    color: grey;
+}
+
+.navigation li:hover{
+     text-decoration: underline;
+}
+
+.h5{
+    text-align: center;
+    margin-top: 130px;
+    color: rgb(0, 0, 0);
+}
+
+.h1{
+    text-align: center;
+    font-size: 30px;
+}
+
+.profile{
+    margin-left: 353px;
+}
